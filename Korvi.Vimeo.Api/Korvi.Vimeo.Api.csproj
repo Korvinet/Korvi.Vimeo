@@ -52,6 +52,7 @@
     <Compile Include="Models\Upload.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\Video.cs" />
+    <Compile Include="Models\VideoFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VimeoException.cs" />
   </ItemGroup>
